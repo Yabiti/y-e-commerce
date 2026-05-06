@@ -7,15 +7,3 @@ export default function Home() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
